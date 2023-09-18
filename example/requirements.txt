@@ -1,0 +1,2 @@
+eventlet==0.33.3
+gunicorn @ https://github.com/benoitc/gunicorn/archive/ff58e0c6da83d5520916bc4cc109a529258d76e1.zip#sha256=455d1e9317ccdf55f0c130bbb9f27ab65bf08545e4cfeac96e55b16761e1061f
