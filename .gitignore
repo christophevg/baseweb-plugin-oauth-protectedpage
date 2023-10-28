@@ -11,3 +11,4 @@ docs/_build
 .python-version
 *secret*
 *.local
+.DS_Store
